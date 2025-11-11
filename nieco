@@ -34,5 +34,5 @@ void loop()
     lcd.print("zadal si zle");
   else
     lcd.print("NEUHADOL");
-  delay(500);
+  delay(1000);
 }
